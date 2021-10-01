@@ -1,0 +1,22 @@
+{
+  "PauseButtonUp": "GUI/MainGame/PauseButtonUp",
+  "PauseButtonHover": "GUI/MainGame/PauseButtonHover",
+  "PauseButtonClick": "GUI/MainGame/PauseButtonClick",
+  "WingedShoeButtonUp": "GUI/MainGame/WingedShoeButtonUp",
+  "WingedShoeButtonHover": "GUI/MainGame/WingedShoeButtonHover",
+  "WingedShoeButtonClick": "GUI/MainGame/WingedShoeButtonClick",
+  "MultiplyButtonUp": "GUI/MainGame/MultiplyButtonUp",
+  "MultiplyButtonHover": "GUI/MainGame/MultiplyButtonHover",
+  "MultiplyButtonClick": "GUI/MainGame/MultiplyButtonClick",
+  "MagnetButtonUp": "GUI/MainGame/MagnetButtonUp",
+  "MagnetButtonHover": "GUI/MainGame/MagnetButtonHover",
+  "MagnetButtonClick": "GUI/MainGame/MagnetButtonClick",
+  "MainMenuButtonUp": "GUI/MainGame/MainMenuButtonUp",
+  "MainMenuButtonHover": "GUI/MainGame/MainMenuButtonHover",
+  "MainMenuButtonClick": "GUI/MainGame/MainMenuButtonClick",
+  "RerunButtonUp": "GUI/MainGame/RerunButtonUp",
+  "RerunButtonHover": "GUI/MainGame/RerunButtonHover",
+  "RerunButtonClick": "GUI/MainGame/RerunButtonClick",
+  "Hourglass": "GUI/MainGame/Hourglass",
+  "GameOver":  "GUI/MainGame/GameOver"
+}
