@@ -1,0 +1,11 @@
+{
+	"Player":
+	{
+	    "Filename": "Sprites/Player",
+	    "FrameCount": 5,
+	    "FrameRate":6,
+	    "Origin": "Center",
+	    "PlayType": "Loop"
+	}
+
+}

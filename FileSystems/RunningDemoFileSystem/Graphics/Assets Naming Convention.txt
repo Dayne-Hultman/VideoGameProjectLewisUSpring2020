@@ -1,0 +1,27 @@
+This is a guide to naming and navigating the Assets
+When creating New Assets, use this guide to remain consistant 
+
+
+Basic Naming Scheme:
+
+NameOfTheFileFolderForTheAsset_DescriptionOfTheAsset__VersionOfTheAsset*_VersionNumberOfTheAsset_SizeOfTheAsset_FormatOftheAsset**_AmountOfFramesInTheAssets***_Misc****
+*      Use only if the Asset has two or more versions of the same name
+**     Use only if the Asset is in two or more formats
+***    Use only if the Asset has a Sprite Sheet
+****   Use only if the Asset has any other Information 
+
+
+Example:
+Player_Knight_Ducking_Placeholder_Big_Gif_4FrameSheet.gif
+
+~The Asset Exsists in the 'Player' folder, so begin with 'Player'
+~The Asset is of a knight, so Knight is a fitting Description
+~The Asset is of the knight ducking, as opposed to the walking version, so Ducking is added
+~The version Number for this Asset is 'Placeholder', as it is the placeholder for the true asset.
+    -When Assets that may make it into the final game are added, placeholder is replaced with a number corresponding with 
+        How many have been made before it. 
+    -For the release Asset, this tag should be 'Final'
+~The Asset is of a 1024 pxl by 1024 pxl size, know as 'Big'. This can be changed with the dimensions of the Asset as needed
+~The Asset tagged as 'Gif', as there is a Png sprite Sheet of this same version
+~The Asset is tagged as 4FrameSheet, as it is derived from 4 frames
+~The Asset has no Misc tag, as the Misc Tag is not needed on this Asset 
