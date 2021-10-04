@@ -1,0 +1,24 @@
+
+{   
+ "Ship": 
+{       "Filename": "Sprites/Ship_Images",
+        "FrameCount": 6, 
+        "FrameRate": 10,
+        "Origin": "Center",
+        "PlayType": "Loop"    
+},
+ "Rock": 
+{       "Filename": "Sprites/Rock_Images",
+        "FrameCount": 3, 
+        "FrameRate": 6,
+        "Origin": "Center",
+        "PlayType": "Loop"  		
+},
+ "Bullet": 
+{       "Filename": "Sprites/Bullet_Images",
+        "FrameCount": 3, 
+        "FrameRate": 18,
+        "Origin": "Center",
+        "PlayType": "Loop"    
+}
+}
