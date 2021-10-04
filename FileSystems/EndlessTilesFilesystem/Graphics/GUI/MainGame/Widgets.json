@@ -1,0 +1,54 @@
+{
+  "Children": [
+    {
+      "Name": "Jump",
+      "Type": "PressButton",
+      "Font": "Arial",
+      "TextKey": "",
+      "UpOutState": "JumpButtonUp",
+      "UpOverState": "JumpButtonHover",
+      "DownOverState": "JumpButtonClick",
+      "PositionOffset": "2|650"
+    },
+    {
+      "Name": "Shoot",
+      "Type": "PressButton",
+      "Font": "Arial",
+      "TextKey": "",
+      "UpOutState": "ShootButtonUp",
+      "UpOverState": "ShootButtonHover",
+      "DownOverState": "ShootButtonClick",
+      "PositionOffset": "120|650"
+    },
+    {
+      "Name": "Slow",
+      "Type": "PressButton",
+      "Font": "Arial",
+      "TextKey": "",
+      "UpOutState": "SlowButtonUp",
+      "UpOverState": "SlowButtonHover",
+      "DownOverState": "SlowButtonClick",
+      "PositionOffset": "238|650"
+    },
+    {
+      "Name": "Slide",
+      "Type": "PressButton",
+      "Font": "Arial",
+      "TextKey": "",
+      "UpOutState": "SlideButtonUp",
+      "UpOverState": "SlideButtonHover",
+      "DownOverState": "SlideButtonClick",
+      "PositionOffset": "356|650"
+    },
+    {
+      "Name": "Pause",
+      "Type": "PressButton",
+      "Font": "Arial",
+      "TextKey": "",
+      "UpOutState": "PauseButtonUp",
+      "UpOverState": "PauseButtonHover",
+      "DownOverState": "PauseButtonClick",
+      "PositionOffset": "900|650"
+    }
+  ]
+}

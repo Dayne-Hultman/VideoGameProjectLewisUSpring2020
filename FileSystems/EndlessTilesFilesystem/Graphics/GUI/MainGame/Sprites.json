@@ -1,0 +1,17 @@
+{
+  "JumpButtonUp": "GUI/MainGame/JumpButtonUp",
+  "JumpButtonHover": "GUI/MainGame/JumpButtonHover",
+  "JumpButtonClick": "GUI/MainGame/JumpButtonClick",
+  "ShootButtonUp": "GUI/MainGame/ShootButtonUp",
+  "ShootButtonHover": "GUI/MainGame/ShootButtonHover",
+  "ShootButtonClick": "GUI/MainGame/ShootButtonClick",
+  "SlowButtonUp": "GUI/MainGame/SlowButtonUp",
+  "SlowButtonHover": "GUI/MainGame/SlowButtonHover",
+  "SlowButtonClick": "GUI/MainGame/SlowButtonClick",
+  "PauseButtonUp": "GUI/MainGame/PauseButtonUp",
+  "PauseButtonHover": "GUI/MainGame/PauseButtonHover",
+  "PauseButtonClick": "GUI/MainGame/PauseButtonClick",
+  "SlideButtonUp": "GUI/MainGame/SlideButtonUp",
+  "SlideButtonHover": "GUI/MainGame/SlideButtonHover",
+  "SlideButtonClick": "GUI/MainGame/SlideButtonClick"
+}
