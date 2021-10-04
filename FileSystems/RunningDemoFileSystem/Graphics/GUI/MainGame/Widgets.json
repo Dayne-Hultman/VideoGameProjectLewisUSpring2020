@@ -1,0 +1,137 @@
+{
+  "Children": [
+    {
+      "Name": "Pause",
+      "Type": "PressButton",
+      "TextKey": "",
+      "UpOutState": "PauseButtonUp",
+      "UpOverState": "PauseButtonHover",
+      "DownOverState": "PauseButtonClick",
+      "PositionOffset": "900|650"
+    },
+    {
+      "Name": "Shoe",
+      "Type": "PressButton",
+      "TextKey": "",
+      "UpOutState": "WingedShoeButtonUp",
+      "UpOverState": "WingedShoeButtonHover",
+      "DownOverState": "WingedShoeButtonClick",
+      "PositionOffset": "240|650"
+    },
+    {
+      "Name": "Magnet",
+      "Type": "PressButton",
+      "TextKey": "",
+      "UpOutState": "MagnetButtonUp",
+      "UpOverState": "MagnetButtonHover",
+      "DownOverState": "MagnetButtonClick",
+      "PositionOffset": "460|650"
+    },
+    {
+      "Name": "Multiply",
+      "Type": "PressButton",
+      "TextKey": "",
+      "UpOutState": "MultiplyButtonUp",
+      "UpOverState": "MultiplyButtonHover",
+      "DownOverState": "MultiplyButtonClick",
+      "PositionOffset": "680|650"
+    },
+    {
+      "Name": "MainMenu",
+      "Type": "PressButton",
+      "TextKey": "",
+      "UpOutState": "MainMenuButtonUp",
+      "UpOverState": "MainMenuButtonHover",
+      "DownOverState": "MainMenuButtonClick",
+      "PositionOffset": "595|340",
+      "Visible": false
+    },
+    {
+      "Name": "Rerun",
+      "Type": "PressButton",
+      "TextKey": "",
+      "UpOutState": "RerunButtonUp",
+      "UpOverState": "RerunButtonHover",
+      "DownOverState": "RerunButtonClick",
+      "PositionOffset": "325|340",
+      "Visible": false
+    },
+    {
+      "Name": "Gold",
+      "Type": "NumberLabel",
+      "Font": "Arial",
+      "TextColor": "255|255|0|255", //golden yellow
+      "TextAlignment": "Right",
+      "TextBounds": "710|20|300|40",
+      "TextBoundsColor": "0|255|0|255",
+      "TextScale": "2|2",
+      "TextBoundsDraw": true
+    },
+    {
+      "Name": "GoldEnd",
+      "Type": "NumberLabel",
+      "Font": "Arial",
+      "TextColor": "255|255|0|255", //golden yellow
+      "TextAlignment": "Center",
+      "TextBounds": "480|265|300|40",
+      "TextBoundsColor": "0|255|0|255",
+      "TextScale": "2|2",
+      "Visible": false
+    },
+    {
+      "Name": "Distance",
+      "Type": "NumberLabel",
+      "Font": "Arial",
+      "TextColor": "0|0|0|255", //black
+      "TextAlignment": "Center",
+      "TextBounds": "400|20|300|40",
+      "TextBoundsColor": "0|0|0|255",
+      "TextScale": "1.25|1.75",
+      "TextBoundsDraw": true
+    },
+    {
+      "Name": "DistanceEnd",
+      "Type": "NumberLabel",
+      "Font": "Arial",
+      "TextColor": "255|255|255|255", //white
+      "TextAlignment": "Center",
+      "TextBounds": "480|210|300|40",
+      "TextBoundsColor": "0|255|0|255",
+      "TextScale": "2|2",
+      "Visible": false
+    },
+    {
+      "Name": "MultiplyAmount",
+      "Type": "NumberLabel",
+      "Font": "Arial",
+      "TextColor": "247|142|4|255", //bright orange
+      "TextAlignment": "Center",
+      "TextBounds": "800|670|100|80",
+      "TextBoundsColor": "247|142|4|255",
+      "TextScale": "3|3",
+      "TextBoundsDraw": true
+    },
+    {
+      "Name": "MagnetAmount",
+      "Type": "NumberLabel",
+      "Font": "Arial",
+      "TextColor": "255|255|0|255", //bright orange
+      "TextAlignment": "Center",
+      "TextBounds": "580|670|100|80",
+      "TextBoundsColor": "255|255|0|255",
+      "TextScale": "3|3",
+      "TextBoundsDraw": true
+    },
+    {
+      "Name": "ShoeAmount",
+      "Type": "NumberLabel",
+      "Font": "Arial",
+      "TextColor": "255|255|255|255", //bright orange
+      "TextAlignment": "Center",
+      "TextBounds": "360|670|100|80",
+      "TextBoundsColor": "255|255|255|255",
+      "TextScale": "3|3",
+      "TextBoundsDraw": true
+    }
+  ]
+}
