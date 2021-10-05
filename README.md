@@ -16,4 +16,4 @@ To exit the application:
 1. You can collide with an obstacle/enemy which will result in a game over. From there, you can start a new run or go back to the main menu.
 2. While in the main mode of gameplay, you can hit the ESC key to exit immediatley.
 
-NOTE: None of the ingame mechanics work such as the power ups or the pause button. Only the GUI was created with no implementation.
+NOTE: None of the ingame mechanics work such as the power ups or the pause button. Only the GUI was created for design purposes.
